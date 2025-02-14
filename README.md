@@ -1,0 +1,2 @@
+# HPC-script
+QUANTUM ESPRESSO and LAMMPS
